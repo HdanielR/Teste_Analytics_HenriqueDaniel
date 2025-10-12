@@ -1,4 +1,4 @@
-# 🧠 Teste_Analytics_HenriqueResende - Henrique Daniel Resende
+# 🧠 Teste_Analytics_HenriqueDaniel - Henrique Daniel Resende
 
 Repositório criado para o **Teste Técnico para Estagiário de Analytics - Quod**.  
 O objetivo é demonstrar habilidades em **Python**, **análise de dados**, **visualização** e **interpretação de resultados**.
@@ -8,7 +8,7 @@ O objetivo é demonstrar habilidades em **Python**, **análise de dados**, **vis
 ## 📁 Estrutura do Repositório
 
 ```
-Teste_Analytics_HenriqueResende/
+Teste_Analytics_HenriqueDaniel/
 │
 ├── data/
 │   ├── data_raw.csv               # Dados simulados brutos
@@ -16,7 +16,7 @@ Teste_Analytics_HenriqueResende/
 │   ├── sales_june_2024.csv        # vendas de junho 2024
 │
 ├── scripts/
-│   ├── 01_gerar_e_limpar_dados - simulate_and_clean # Simulação e tratamento do dataset de vendas
+│   ├── 01_gerar_e_limpar_dados - simulate_and_clean.py # Simulação e tratamento do dataset de vendas
 │   ├── 02_analise_exploratoria - eda_vendas.py # Análises e visualizações de vendas
 │   ├── visualization.py # Gera gráfico de tendência mensal
 │   ├── analysis_summary.py # Calcula totais de vendas por produto
@@ -36,8 +36,8 @@ Teste_Analytics_HenriqueResende/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/Teste_Analytics_HenriqueResende.git
-cd Teste_Analytics_HenriqueResende
+git clone https://github.com/seuusuario/Teste_Analytics_HenriqueDaniel.git
+cd Teste_Analytics_HenriqueDaniel
 ```
 
 ### 2. Criar e ativar ambiente virtual (opcional, mas recomendado)
@@ -55,13 +55,13 @@ pip install -r requirements.txt
 ### 4. Executar os scripts
 1. **Gerar e limpar dados:**
    ```bash
-   python scripts/01_gerar_e_limpar_dados.py
+   python scripts/simulate_and_clean.py
    ```
    → Gera o dataset simulado e o arquivo `data_clean.csv`.
 
 2. **Realizar análise exploratória:**
    ```bash
-   python scripts/02_analise_exploratoria.py
+   python scripts/eda_vendas.py
    ```
    → Cria gráficos e salva visualizações na pasta `/output` (se aplicável).
 
@@ -159,7 +159,7 @@ O relatório apresenta:
 ## ✉️ Contato
 
 **Henrique Daniel Resende**  
-E-mail: danielgoryz008@gmail.com
+E-mail: danielgoryz008@gmail.com (utilizado no processo seletivo)
 LinkedIn: https://www.linkedin.com/in/hdresende
 
 ---
