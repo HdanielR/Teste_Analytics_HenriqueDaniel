@@ -1,5 +1,5 @@
 # visualization.py
-# Generates a monthly trend line plot from data_clean.csv
+# Gera um gráfico de linha de tendência mensal a partir do arquivo data_clean.csv
 import pandas as pd
 import matplotlib.pyplot as plt
 
