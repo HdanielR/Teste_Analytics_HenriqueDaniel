@@ -62,7 +62,6 @@ def main():
         id_val = f"ID{1000 + i}"
         rows.append([id_val, dates[i].strftime("%Y-%m-%d"), prod, cat, qty, price])
 
-    # add some duplicates and bad formats
     rows.append(rows[10])
     rows.append([rows[20][0], rows[20][1], rows[20][2], rows[20][3], rows[20][4], rows[20][5]])
     rows.append([ "ID9999", "2023/05/15", "Cacau Premium", "Alimentos", "3", "45,50" ])
@@ -72,7 +71,7 @@ def main():
     df.to_csv("data_simulated_raw.csv", index=False)
     print("Simulated raw saved: data_simulated_raw.csv")
 
-    # Cleaning
+    # Limpando
     df_clean = df.copy()
     df_clean["Data"] = df_clean["Data"].apply(lambda x: parse_date(x) if pd.notna(x) else pd.NaT)
     df_clean["Quantidade"] = df_clean["Quantidade"].apply(to_int)

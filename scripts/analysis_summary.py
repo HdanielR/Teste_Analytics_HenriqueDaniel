@@ -1,5 +1,5 @@
 # analysis_summary.py
-# This script summarizes total sales per product from data_clean.csv
+# Este script resume o total de vendas por produto a partir do arquivo data_clean.csv
 import pandas as pd
 df = pd.read_csv("data_clean.csv")
 sales_by_product = df.groupby(["Produto","Categoria"], as_index=False).agg({"Quantidade":"sum","TotalVenda":"sum"})
