@@ -1,0 +1,11 @@
+ID,Data,Produto,Categoria,Quantidade,Preço,TotalVenda
+JUN24_0,2024-06-11,Cacau Premium,Alimentos,0,33.3,0.0
+JUN24_1,2024-06-03,Cacau Tradicional,Alimentos,1,67.65,67.65
+JUN24_2,2024-06-13,Adubo A,Insumos,1,17.58,17.58
+JUN24_3,2024-06-17,Adubo B,Insumos,0,21.84,0.0
+JUN24_4,2024-06-04,Pesticida X,Insumos,1,37.56,37.56
+JUN24_5,2024-06-21,Ferramenta Y,Ferramentas,1,15.87,15.87
+JUN24_6,2024-06-05,Semente Z,Insumos,1,12.47,12.47
+JUN24_7,2024-06-25,Embalagem 1kg,Embalagens,2,24.55,49.1
+JUN24_8,2024-06-14,Embalagem 500g,Embalagens,1,39.72,39.72
+JUN24_9,2024-06-14,Fertilizante Líquido,Insumos,1,29.69,29.69
