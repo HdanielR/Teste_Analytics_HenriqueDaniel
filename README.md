@@ -159,7 +159,7 @@ O relatório apresenta:
 ## ✉️ Contato
 
 **Henrique Daniel Resende**  
-E-mail: danielgoryz008@gmail.com (utilizado no processo seletivo)
+E-mail: danielgoryz008@gmail.com (utilizado no processo seletivo)  
 LinkedIn: https://www.linkedin.com/in/hdresende
 
 ---
