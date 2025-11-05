@@ -1,6 +1,6 @@
 # 🧠 Teste_Analytics_HenriqueDaniel - Henrique Daniel Resende
 
-Repositório criado para o **Teste Técnico para Estagiário de Analytics - Quod**.  
+Repositório criado como intuito de ser um **Teste Técnico para Estagiário de Analytics**
 O objetivo é demonstrar habilidades em **Python**, **análise de dados**, **visualização** e **interpretação de resultados**.
 
 ---
@@ -159,9 +159,6 @@ O relatório apresenta:
 ## ✉️ Contato
 
 **Henrique Daniel Resende**  
-E-mail: danielgoryz008@gmail.com (utilizado no processo seletivo)  
 LinkedIn: https://www.linkedin.com/in/hdresende
 
 ---
-
-🧩 *Desenvolvido como parte do processo seletivo de Estágio em Analytics - Quod.*
