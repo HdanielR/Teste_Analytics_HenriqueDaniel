@@ -1,7 +1,7 @@
 # 🧠 Teste_Analytics_HenriqueDaniel - Henrique Daniel Resende
 
-Repositório criado como intuito de ser um **Teste Técnico para Estagiário de Analytics**
-O objetivo é demonstrar habilidades em **Python**, **análise de dados**, **visualização** e **interpretação de resultados**.
+Repositório criado como intuito de ser um **Teste Técnico para Estagiário de Analytics** 
+O objetivo é treinar habilidades em **Python**, **análise de dados**, **visualização** e **interpretação de resultados**.
 
 ---
 
