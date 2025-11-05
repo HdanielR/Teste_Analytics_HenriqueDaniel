@@ -37,7 +37,7 @@ Teste_Analytics_HenriqueDaniel/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/Teste_Analytics_HenriqueDaniel.git
+git clone Teste_Analytics_HenriqueDaniel.git
 cd Teste_Analytics_HenriqueDaniel
 ```
 
